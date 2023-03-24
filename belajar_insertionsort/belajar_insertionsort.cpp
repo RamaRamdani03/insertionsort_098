@@ -63,7 +63,12 @@ void display() {
 	}
 }
 
-
+int main()
+{
+	input();
+	insertionsort();
+	display();
+}
 
 
 
